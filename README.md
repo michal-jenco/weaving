@@ -76,6 +76,8 @@ Some examples:
 00000001001010000000000
 01111001111101001111000
 
+![Screenshot 2025-11-01 060700.png](img/Screenshot%202025-11-01%20060700.png)
+
 ![arecibo.png](img/arecibo.png)
 
 ![weave552.png](img/weave552.png)
