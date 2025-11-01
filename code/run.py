@@ -6,7 +6,6 @@
 import sys
 import math
 import random
-from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import Qt, QPointF, QRectF
 from PyQt5.QtGui import QPainter, QImage, QColor, QPen, QBrush, QPixmap, QLinearGradient
 from PyQt5.QtWidgets import (
